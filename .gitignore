@@ -1,0 +1,32 @@
+# Quartus generated
+db/
+incremental_db/
+hc_output/
+demo_batch/
+output_files/
+*.qws
+*.qdf
+*.bak
+*.sof
+*.pof
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.pin
+*.done
+*.cdrf
+*.sld
+*.sopcinfo
+*.qsys.edit
+c5_pin_model_dump.txt
+*.d.*
+*.v.bak
+
+# MATLAB
+*.asv
+*.m~
+
+# OS
+.DS_Store
+Thumbs.db
