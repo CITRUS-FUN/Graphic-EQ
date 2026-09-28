@@ -44,8 +44,5 @@
 | `DE1_SoC_i2sound.v` | Верхний модуль проекта: конфигурация кодека, I²S, каскад БИХ-фильтров |
 | `DE1_SoC_i2sound.qpf` | Файл проекта Quartus |
 | `DE1_SoC_i2sound.qsf` | Назначение выводов и настройки проекта |
-| `DE1_SoC_i2sound.sdc` | Временные ограничения |
-| `DE1_SoC_i2sound.cdf` | Конфигурация программирования (Chain Description File) |
 | `AudioPLL/` | Аудио-PLL, формирует тактовый сигнал `AUD_XCK` (MCLK) для кодека |
-| `v/` | Verilog-модули проекта (фильтры, I²S, I²C и т. д.) |
-| `.qsys_edit/` | Служебные файлы Platform Designer (Qsys) |
+| `v/` | Verilog-модули проекта |
